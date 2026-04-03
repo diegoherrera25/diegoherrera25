@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=250&section=header&text=Diego%20Herrera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20in%20Progress&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:434343&height=260&section=header&text=Diego%20Herrera&fontSize=55&fontColor=00ffff&animation=fadeIn&stroke=00ffff&strokeWidth=1&desc=Building%20my%20future%20in%20code&descAlignY=60&descSize=20" />
 </p>
 
 <!-- SALUDO -->
