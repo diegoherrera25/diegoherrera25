@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1600&h=400&fit=crop" />
 </p>
 
 <!-- SALUDO -->
