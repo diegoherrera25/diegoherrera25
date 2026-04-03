@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00c6ff&height=250&section=header&text=Diego%20Herrera&fontSize=50&fontColor=00c6ff&animation=twinkling&fontAlignY=35&desc=Future%20Software%20Developer&descAlignY=55&descSize=20" />
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1600&auto=format&fit=crop" />
 </p>
 
 <!-- SALUDO -->
